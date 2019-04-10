@@ -6,7 +6,7 @@
 
     <groupId>org.apache.ivy.example</groupId>
     <artifactId>console</artifactId>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <version>1.0</version>
 
     <parent>
